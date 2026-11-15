@@ -1,3 +1,5 @@
+import { copyFileSync } from 'node:fs'
+import { fileURLToPath } from 'node:url'
 import react from '@vitejs/plugin-react'
 import { defineConfig, type Plugin } from 'vite'
 
@@ -38,7 +40,21 @@ function cspPlugin(): Plugin {
   }
 }
 
+function githubPages404Plugin(): Plugin {
+  return {
+    name: 'github-pages-404-fallback',
+    apply: 'build',
+    closeBundle() {
+      copyFileSync(
+        fileURLToPath(new URL('./dist/index.html', import.meta.url)),
+        fileURLToPath(new URL('./dist/404.html', import.meta.url)),
+      )
+    },
+  }
+}
+
 // https://vite.dev/config/
 export default defineConfig({
-  plugins: [react(), cspPlugin()],
+  base: process.env.VITE_BASE ?? '/',
+  plugins: [react(), cspPlugin(), githubPages404Plugin()],
 })

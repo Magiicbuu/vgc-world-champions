@@ -26,7 +26,7 @@ export function PokeAlex() {
       <header className="pokealex-hero">
         <figure className="pokealex-photo">
           <img
-            src="/pokealex.webp"
+            src={`${import.meta.env.BASE_URL}pokealex.webp`}
             alt={`Retrato de ${pokealex.name}`}
             width={720}
             height={1080}

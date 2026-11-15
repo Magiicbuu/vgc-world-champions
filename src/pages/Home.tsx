@@ -250,7 +250,7 @@ export function Home() {
           <div className="pokealex-teaser-card">
             <div className="avatar avatar-large avatar-photo">
               <img
-                src="/pokealex.webp"
+                src={`${import.meta.env.BASE_URL}pokealex.webp`}
                 alt=""
                 width={720}
                 height={1080}

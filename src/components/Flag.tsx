@@ -9,7 +9,7 @@ export function Flag({ code, label, className }: FlagProps) {
 
   return (
     <img
-      src={`/flags/${code.toLowerCase()}.png`}
+      src={`${import.meta.env.BASE_URL}flags/${code.toLowerCase()}.png`}
       alt={label ? `Bandera de ${label}` : ''}
       className={className ? `flag-icon ${className}` : 'flag-icon'}
       width={20}
