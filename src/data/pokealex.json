@@ -1,0 +1,1447 @@
+{
+  "name": "Alex Gómez Berna",
+  "alias": "PokeAlex",
+  "country": "ES",
+  "countryName": "España",
+  "flag": "🇪🇸",
+  "born": "12 de enero de 1999",
+  "team": "Movistar KOI",
+  "since": "2024",
+  "role": "Jugador de VGC · Creador de contenido · Coach",
+  "bio": "Jugador español de Pokémon VGC, tres veces Top 8 del Mundo y campeón internacional de Norteamérica en 2023. Compite para Movistar KOI y comparte su experiencia en pokealex.es.",
+  "links": [
+    {
+      "label": "Web oficial",
+      "url": "https://www.pokealex.es/"
+    },
+    {
+      "label": "X / Twitter",
+      "url": "https://x.com/pokealexvgc"
+    },
+    {
+      "label": "Twitch",
+      "url": "https://www.twitch.tv/pokealex"
+    },
+    {
+      "label": "Liquipedia",
+      "url": "https://liquipedia.net/pokemon/Alex_G%C3%B3mez"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Top 8 mundiales",
+      "value": "3",
+      "detail": "2013 · 2014 · 2019"
+    },
+    {
+      "label": "Títulos internacionales",
+      "value": "1",
+      "detail": "NAIC 2023"
+    },
+    {
+      "label": "Títulos nacionales",
+      "value": "1",
+      "detail": "Reino Unido 2016"
+    },
+    {
+      "label": "Títulos regionales",
+      "value": "1",
+      "detail": "Francia 2015"
+    },
+    {
+      "label": "Top cuts internacionales",
+      "value": "6",
+      "detail": "1º · 2º · Top 4 · 3 Top 8"
+    },
+    {
+      "label": "Top cuts regionales",
+      "value": "7",
+      "detail": "2 subcampeonatos · 3 Top 4 · 2 Top 8"
+    },
+    {
+      "label": "Prize money",
+      "value": "$48.500",
+      "detail": "Limitless VGC (jun. 2026)"
+    },
+    {
+      "label": "Puntos de campeonato",
+      "value": "629",
+      "detail": "Limitless VGC (jun. 2026)"
+    }
+  ],
+  "milestones": [
+    {
+      "year": "2009",
+      "title": "Inicios competitivos",
+      "text": "Empieza a jugar a Pokémon competitivo en los foros Ranking Hispano y PokeSpain.",
+      "tier": "inicio"
+    },
+    {
+      "year": "2011",
+      "title": "Top 4 en el Nacional de España",
+      "text": "Debuta en un torneo oficial con un Top 4 en Madrid.",
+      "tier": "nacional"
+    },
+    {
+      "year": "2012",
+      "title": "Top 4 en el Nacional de Francia",
+      "text": "Consigue plaza para el Mundial de Hawái.",
+      "tier": "nacional"
+    },
+    {
+      "year": "2013",
+      "title": "Top 8 del Mundo",
+      "text": "Primer Top 8 mundial en Vancouver.",
+      "tier": "mundial"
+    },
+    {
+      "year": "2014",
+      "title": "Top 8 del Mundo",
+      "text": "Repite Top 8 en Washington D. C.",
+      "tier": "mundial"
+    },
+    {
+      "year": "2015",
+      "title": "Campeón Regional de Francia",
+      "text": "Primer título regional en Lyon.",
+      "tier": "regional"
+    },
+    {
+      "year": "2016",
+      "title": "Campeón Nacional del Reino Unido",
+      "text": "Gana el Nacional británico y lidera el ranking mundial con 1191 CP.",
+      "tier": "nacional"
+    },
+    {
+      "year": "2017",
+      "title": "Subcampeón de Europa",
+      "text": "Finalista del EUIC de Londres ante Simone Sanvito.",
+      "tier": "internacional"
+    },
+    {
+      "year": "2018",
+      "title": "Top 4 en Leipzig y Top 8 en LAIC",
+      "text": "Consolida su presencia en el circuito internacional.",
+      "tier": "internacional"
+    },
+    {
+      "year": "2019",
+      "title": "6º del Mundo",
+      "text": "Top 8 en el Mundial de Washington D. C. con Kyogre Primigenio y Mega Rayquaza. También fue subcampeón del Regional de Bolzano.",
+      "tier": "mundial"
+    },
+    {
+      "year": "2020",
+      "title": "Subcampeón en Colonia",
+      "text": "Finalista del Regional de Colonia y Top 4 en Malmö.",
+      "tier": "regional"
+    },
+    {
+      "year": "2022",
+      "title": "Pausa competitiva",
+      "text": "Anuncia una retirada temporal del circuito; regresa en 2023.",
+      "tier": "inicio"
+    },
+    {
+      "year": "2023",
+      "title": "Campeón del NAIC",
+      "text": "Gana el Internacional de Norteamérica en Columbus con Dragapult, Chien-Pao, Iron Hands, Dondozo, Ting-Lu y Flutter Mane. Además, 6º en el Regional de Barcelona.",
+      "tier": "internacional"
+    },
+    {
+      "year": "2024",
+      "title": "Top 4 en el EUIC",
+      "text": "Semifinalista del Europeo de Londres, 7º en el LAIC y 29º en el Mundial de Honolulu. Se une a Movistar KOI.",
+      "tier": "internacional"
+    },
+    {
+      "year": "2025",
+      "title": "Top 4 en Birmingham",
+      "text": "Semifinalista del Regional de Birmingham, 9º en Stuttgart y 25º en el NAIC.",
+      "tier": "regional"
+    },
+    {
+      "year": "2026",
+      "title": "10º en el EUIC y 14º en el NAIC",
+      "text": "Suma un top 10 en el Europeo y un 14º puesto en el Internacional de Norteamérica.",
+      "tier": "internacional"
+    }
+  ],
+  "teams": [
+    {
+      "key": "worlds2019",
+      "pokemon": [
+        {
+          "key": "kyogre-primal",
+          "species": "kyogre",
+          "displayName": "Primigenio Kyogre",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10077.png",
+          "types": [
+            "Agua"
+          ],
+          "typeKeys": [
+            "water"
+          ],
+          "baseStats": {
+            "hp": 100,
+            "atk": 150,
+            "def": 90,
+            "spa": 180,
+            "spd": 160,
+            "spe": 90
+          },
+          "item": {
+            "en": null,
+            "es": null,
+            "sprite": null,
+            "effect": ""
+          },
+          "ability": {
+            "en": null,
+            "es": null,
+            "effect": ""
+          },
+          "nature": null,
+          "natureEs": null,
+          "evs": null,
+          "ivs": null,
+          "level": null,
+          "teraType": null,
+          "moves": [],
+          "confidence": "report",
+          "note": null
+        },
+        {
+          "key": "rayquaza-mega",
+          "species": "rayquaza",
+          "displayName": "Mega Rayquaza",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10079.png",
+          "types": [
+            "Dragón",
+            "Volador"
+          ],
+          "typeKeys": [
+            "dragon",
+            "flying"
+          ],
+          "baseStats": {
+            "hp": 105,
+            "atk": 180,
+            "def": 100,
+            "spa": 180,
+            "spd": 100,
+            "spe": 115
+          },
+          "item": {
+            "en": null,
+            "es": null,
+            "sprite": null,
+            "effect": ""
+          },
+          "ability": {
+            "en": null,
+            "es": null,
+            "effect": ""
+          },
+          "nature": null,
+          "natureEs": null,
+          "evs": null,
+          "ivs": null,
+          "level": null,
+          "teraType": null,
+          "moves": [],
+          "confidence": "report",
+          "note": null
+        },
+        {
+          "key": "incineroar",
+          "species": "incineroar",
+          "displayName": "Incineroar",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/727.png",
+          "types": [
+            "Fuego",
+            "Siniestro"
+          ],
+          "typeKeys": [
+            "fire",
+            "dark"
+          ],
+          "baseStats": {
+            "hp": 95,
+            "atk": 115,
+            "def": 90,
+            "spa": 80,
+            "spd": 90,
+            "spe": 60
+          },
+          "item": {
+            "en": null,
+            "es": null,
+            "sprite": null,
+            "effect": ""
+          },
+          "ability": {
+            "en": null,
+            "es": null,
+            "effect": ""
+          },
+          "nature": null,
+          "natureEs": null,
+          "evs": null,
+          "ivs": null,
+          "level": null,
+          "teraType": null,
+          "moves": [],
+          "confidence": "report",
+          "note": null
+        },
+        {
+          "key": "tapu-koko",
+          "species": "tapu-koko",
+          "displayName": "Tapu Koko",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
+          "types": [
+            "Eléctrico",
+            "Hada"
+          ],
+          "typeKeys": [
+            "electric",
+            "fairy"
+          ],
+          "baseStats": {
+            "hp": 70,
+            "atk": 115,
+            "def": 85,
+            "spa": 95,
+            "spd": 75,
+            "spe": 130
+          },
+          "item": {
+            "en": null,
+            "es": null,
+            "sprite": null,
+            "effect": ""
+          },
+          "ability": {
+            "en": null,
+            "es": null,
+            "effect": ""
+          },
+          "nature": null,
+          "natureEs": null,
+          "evs": null,
+          "ivs": null,
+          "level": null,
+          "teraType": null,
+          "moves": [],
+          "confidence": "report",
+          "note": null
+        },
+        {
+          "key": "nihilego",
+          "species": "nihilego",
+          "displayName": "Nihilego",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/793.png",
+          "types": [
+            "Roca",
+            "Veneno"
+          ],
+          "typeKeys": [
+            "rock",
+            "poison"
+          ],
+          "baseStats": {
+            "hp": 109,
+            "atk": 53,
+            "def": 47,
+            "spa": 127,
+            "spd": 131,
+            "spe": 103
+          },
+          "item": {
+            "en": null,
+            "es": null,
+            "sprite": null,
+            "effect": ""
+          },
+          "ability": {
+            "en": null,
+            "es": null,
+            "effect": ""
+          },
+          "nature": null,
+          "natureEs": null,
+          "evs": null,
+          "ivs": null,
+          "level": null,
+          "teraType": null,
+          "moves": [],
+          "confidence": "report",
+          "note": null
+        },
+        {
+          "key": "kartana",
+          "species": "kartana",
+          "displayName": "Kartana",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/798.png",
+          "types": [
+            "Planta",
+            "Acero"
+          ],
+          "typeKeys": [
+            "grass",
+            "steel"
+          ],
+          "baseStats": {
+            "hp": 59,
+            "atk": 181,
+            "def": 131,
+            "spa": 59,
+            "spd": 31,
+            "spe": 109
+          },
+          "item": {
+            "en": null,
+            "es": null,
+            "sprite": null,
+            "effect": ""
+          },
+          "ability": {
+            "en": null,
+            "es": null,
+            "effect": ""
+          },
+          "nature": null,
+          "natureEs": null,
+          "evs": null,
+          "ivs": null,
+          "level": null,
+          "teraType": null,
+          "moves": [],
+          "confidence": "report",
+          "note": null
+        }
+      ]
+    },
+    {
+      "key": "naic2023",
+      "pokemon": [
+        {
+          "key": "dragapult",
+          "species": "dragapult",
+          "displayName": "Dragapult",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png",
+          "types": [
+            "Dragón",
+            "Fantasma"
+          ],
+          "typeKeys": [
+            "dragon",
+            "ghost"
+          ],
+          "baseStats": {
+            "hp": 88,
+            "atk": 120,
+            "def": 75,
+            "spa": 100,
+            "spd": 75,
+            "spe": 142
+          },
+          "item": {
+            "en": null,
+            "es": null,
+            "sprite": null,
+            "effect": ""
+          },
+          "ability": {
+            "en": null,
+            "es": null,
+            "effect": ""
+          },
+          "nature": null,
+          "natureEs": null,
+          "evs": null,
+          "ivs": null,
+          "level": null,
+          "teraType": null,
+          "moves": [],
+          "confidence": "report",
+          "note": null
+        },
+        {
+          "key": "chien-pao",
+          "species": "chien-pao",
+          "displayName": "Chien-Pao",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1002.png",
+          "types": [
+            "Siniestro",
+            "Hielo"
+          ],
+          "typeKeys": [
+            "dark",
+            "ice"
+          ],
+          "baseStats": {
+            "hp": 80,
+            "atk": 120,
+            "def": 80,
+            "spa": 90,
+            "spd": 65,
+            "spe": 135
+          },
+          "item": {
+            "en": null,
+            "es": null,
+            "sprite": null,
+            "effect": ""
+          },
+          "ability": {
+            "en": null,
+            "es": null,
+            "effect": ""
+          },
+          "nature": null,
+          "natureEs": null,
+          "evs": null,
+          "ivs": null,
+          "level": null,
+          "teraType": null,
+          "moves": [],
+          "confidence": "report",
+          "note": null
+        },
+        {
+          "key": "iron-hands",
+          "species": "iron-hands",
+          "displayName": "Ferropalmas",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/992.png",
+          "types": [
+            "Lucha",
+            "Eléctrico"
+          ],
+          "typeKeys": [
+            "fighting",
+            "electric"
+          ],
+          "baseStats": {
+            "hp": 154,
+            "atk": 140,
+            "def": 108,
+            "spa": 50,
+            "spd": 68,
+            "spe": 50
+          },
+          "item": {
+            "en": null,
+            "es": null,
+            "sprite": null,
+            "effect": ""
+          },
+          "ability": {
+            "en": null,
+            "es": null,
+            "effect": ""
+          },
+          "nature": null,
+          "natureEs": null,
+          "evs": null,
+          "ivs": null,
+          "level": null,
+          "teraType": null,
+          "moves": [],
+          "confidence": "report",
+          "note": null
+        },
+        {
+          "key": "dondozo",
+          "species": "dondozo",
+          "displayName": "Dondozo",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/977.png",
+          "types": [
+            "Agua"
+          ],
+          "typeKeys": [
+            "water"
+          ],
+          "baseStats": {
+            "hp": 150,
+            "atk": 100,
+            "def": 115,
+            "spa": 65,
+            "spd": 65,
+            "spe": 35
+          },
+          "item": {
+            "en": null,
+            "es": null,
+            "sprite": null,
+            "effect": ""
+          },
+          "ability": {
+            "en": null,
+            "es": null,
+            "effect": ""
+          },
+          "nature": null,
+          "natureEs": null,
+          "evs": null,
+          "ivs": null,
+          "level": null,
+          "teraType": null,
+          "moves": [],
+          "confidence": "report",
+          "note": null
+        },
+        {
+          "key": "ting-lu",
+          "species": "ting-lu",
+          "displayName": "Ting-Lu",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png",
+          "types": [
+            "Siniestro",
+            "Tierra"
+          ],
+          "typeKeys": [
+            "dark",
+            "ground"
+          ],
+          "baseStats": {
+            "hp": 155,
+            "atk": 110,
+            "def": 125,
+            "spa": 55,
+            "spd": 80,
+            "spe": 45
+          },
+          "item": {
+            "en": null,
+            "es": null,
+            "sprite": null,
+            "effect": ""
+          },
+          "ability": {
+            "en": null,
+            "es": null,
+            "effect": ""
+          },
+          "nature": null,
+          "natureEs": null,
+          "evs": null,
+          "ivs": null,
+          "level": null,
+          "teraType": null,
+          "moves": [],
+          "confidence": "report",
+          "note": null
+        },
+        {
+          "key": "flutter-mane",
+          "species": "flutter-mane",
+          "displayName": "Melenaleteo",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/987.png",
+          "types": [
+            "Fantasma",
+            "Hada"
+          ],
+          "typeKeys": [
+            "ghost",
+            "fairy"
+          ],
+          "baseStats": {
+            "hp": 55,
+            "atk": 55,
+            "def": 55,
+            "spa": 135,
+            "spd": 135,
+            "spe": 135
+          },
+          "item": {
+            "en": null,
+            "es": null,
+            "sprite": null,
+            "effect": ""
+          },
+          "ability": {
+            "en": null,
+            "es": null,
+            "effect": ""
+          },
+          "nature": null,
+          "natureEs": null,
+          "evs": null,
+          "ivs": null,
+          "level": null,
+          "teraType": null,
+          "moves": [],
+          "confidence": "report",
+          "note": null
+        }
+      ]
+    },
+    {
+      "key": "euic2024",
+      "pokemon": [
+        {
+          "key": "rillaboom",
+          "species": "rillaboom",
+          "displayName": "Rillaboom",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/812.png",
+          "types": [
+            "Planta"
+          ],
+          "typeKeys": [
+            "grass"
+          ],
+          "baseStats": {
+            "hp": 100,
+            "atk": 125,
+            "def": 90,
+            "spa": 60,
+            "spd": 70,
+            "spe": 85
+          },
+          "item": {
+            "en": null,
+            "es": null,
+            "sprite": null,
+            "effect": ""
+          },
+          "ability": {
+            "en": null,
+            "es": null,
+            "effect": ""
+          },
+          "nature": null,
+          "natureEs": null,
+          "evs": null,
+          "ivs": null,
+          "level": null,
+          "teraType": null,
+          "moves": [],
+          "confidence": "report",
+          "note": null
+        },
+        {
+          "key": "incineroar",
+          "species": "incineroar",
+          "displayName": "Incineroar",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/727.png",
+          "types": [
+            "Fuego",
+            "Siniestro"
+          ],
+          "typeKeys": [
+            "fire",
+            "dark"
+          ],
+          "baseStats": {
+            "hp": 95,
+            "atk": 115,
+            "def": 90,
+            "spa": 80,
+            "spd": 90,
+            "spe": 60
+          },
+          "item": {
+            "en": null,
+            "es": null,
+            "sprite": null,
+            "effect": ""
+          },
+          "ability": {
+            "en": null,
+            "es": null,
+            "effect": ""
+          },
+          "nature": null,
+          "natureEs": null,
+          "evs": null,
+          "ivs": null,
+          "level": null,
+          "teraType": null,
+          "moves": [],
+          "confidence": "report",
+          "note": null
+        },
+        {
+          "key": "urshifu-rapid-strike",
+          "species": "urshifu",
+          "displayName": "Urshifu (Golpe Fluido)",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10191.png",
+          "types": [
+            "Lucha",
+            "Agua"
+          ],
+          "typeKeys": [
+            "fighting",
+            "water"
+          ],
+          "baseStats": {
+            "hp": 100,
+            "atk": 130,
+            "def": 100,
+            "spa": 63,
+            "spd": 60,
+            "spe": 97
+          },
+          "item": {
+            "en": null,
+            "es": null,
+            "sprite": null,
+            "effect": ""
+          },
+          "ability": {
+            "en": null,
+            "es": null,
+            "effect": ""
+          },
+          "nature": null,
+          "natureEs": null,
+          "evs": null,
+          "ivs": null,
+          "level": null,
+          "teraType": null,
+          "moves": [],
+          "confidence": "report",
+          "note": null
+        },
+        {
+          "key": "raging-bolt",
+          "species": "raging-bolt",
+          "displayName": "Electrofuria",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png",
+          "types": [
+            "Eléctrico",
+            "Dragón"
+          ],
+          "typeKeys": [
+            "electric",
+            "dragon"
+          ],
+          "baseStats": {
+            "hp": 125,
+            "atk": 73,
+            "def": 91,
+            "spa": 137,
+            "spd": 89,
+            "spe": 75
+          },
+          "item": {
+            "en": null,
+            "es": null,
+            "sprite": null,
+            "effect": ""
+          },
+          "ability": {
+            "en": null,
+            "es": null,
+            "effect": ""
+          },
+          "nature": null,
+          "natureEs": null,
+          "evs": null,
+          "ivs": null,
+          "level": null,
+          "teraType": null,
+          "moves": [],
+          "confidence": "report",
+          "note": null
+        },
+        {
+          "key": "chien-pao",
+          "species": "chien-pao",
+          "displayName": "Chien-Pao",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1002.png",
+          "types": [
+            "Siniestro",
+            "Hielo"
+          ],
+          "typeKeys": [
+            "dark",
+            "ice"
+          ],
+          "baseStats": {
+            "hp": 80,
+            "atk": 120,
+            "def": 80,
+            "spa": 90,
+            "spd": 65,
+            "spe": 135
+          },
+          "item": {
+            "en": null,
+            "es": null,
+            "sprite": null,
+            "effect": ""
+          },
+          "ability": {
+            "en": null,
+            "es": null,
+            "effect": ""
+          },
+          "nature": null,
+          "natureEs": null,
+          "evs": null,
+          "ivs": null,
+          "level": null,
+          "teraType": null,
+          "moves": [],
+          "confidence": "report",
+          "note": null
+        },
+        {
+          "key": "gholdengo",
+          "species": "gholdengo",
+          "displayName": "Gholdengo",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
+          "types": [
+            "Acero",
+            "Fantasma"
+          ],
+          "typeKeys": [
+            "steel",
+            "ghost"
+          ],
+          "baseStats": {
+            "hp": 87,
+            "atk": 60,
+            "def": 95,
+            "spa": 133,
+            "spd": 91,
+            "spe": 84
+          },
+          "item": {
+            "en": null,
+            "es": null,
+            "sprite": null,
+            "effect": ""
+          },
+          "ability": {
+            "en": null,
+            "es": null,
+            "effect": ""
+          },
+          "nature": null,
+          "natureEs": null,
+          "evs": null,
+          "ivs": null,
+          "level": null,
+          "teraType": null,
+          "moves": [],
+          "confidence": "report",
+          "note": null
+        }
+      ]
+    },
+    {
+      "key": "worlds2024",
+      "pokemon": [
+        {
+          "key": "grimmsnarl",
+          "species": "grimmsnarl",
+          "displayName": "Grimmsnarl",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/861.png",
+          "types": [
+            "Siniestro",
+            "Hada"
+          ],
+          "typeKeys": [
+            "dark",
+            "fairy"
+          ],
+          "baseStats": {
+            "hp": 95,
+            "atk": 120,
+            "def": 65,
+            "spa": 95,
+            "spd": 75,
+            "spe": 60
+          },
+          "item": {
+            "en": null,
+            "es": null,
+            "sprite": null,
+            "effect": ""
+          },
+          "ability": {
+            "en": null,
+            "es": null,
+            "effect": ""
+          },
+          "nature": null,
+          "natureEs": null,
+          "evs": null,
+          "ivs": null,
+          "level": null,
+          "teraType": null,
+          "moves": [],
+          "confidence": "report",
+          "note": null
+        },
+        {
+          "key": "landorus-therian",
+          "species": "landorus",
+          "displayName": "Landorus (Forma Tótem)",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10021.png",
+          "types": [
+            "Tierra",
+            "Volador"
+          ],
+          "typeKeys": [
+            "ground",
+            "flying"
+          ],
+          "baseStats": {
+            "hp": 89,
+            "atk": 145,
+            "def": 90,
+            "spa": 105,
+            "spd": 80,
+            "spe": 91
+          },
+          "item": {
+            "en": null,
+            "es": null,
+            "sprite": null,
+            "effect": ""
+          },
+          "ability": {
+            "en": null,
+            "es": null,
+            "effect": ""
+          },
+          "nature": null,
+          "natureEs": null,
+          "evs": null,
+          "ivs": null,
+          "level": null,
+          "teraType": null,
+          "moves": [],
+          "confidence": "report",
+          "note": null
+        },
+        {
+          "key": "urshifu-rapid-strike",
+          "species": "urshifu",
+          "displayName": "Urshifu (Golpe Fluido)",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10191.png",
+          "types": [
+            "Lucha",
+            "Agua"
+          ],
+          "typeKeys": [
+            "fighting",
+            "water"
+          ],
+          "baseStats": {
+            "hp": 100,
+            "atk": 130,
+            "def": 100,
+            "spa": 63,
+            "spd": 60,
+            "spe": 97
+          },
+          "item": {
+            "en": null,
+            "es": null,
+            "sprite": null,
+            "effect": ""
+          },
+          "ability": {
+            "en": null,
+            "es": null,
+            "effect": ""
+          },
+          "nature": null,
+          "natureEs": null,
+          "evs": null,
+          "ivs": null,
+          "level": null,
+          "teraType": null,
+          "moves": [],
+          "confidence": "report",
+          "note": null
+        },
+        {
+          "key": "ogerpon-hearthflame-mask",
+          "species": "ogerpon",
+          "displayName": "Ogerpon (Máscara Horno)",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10274.png",
+          "types": [
+            "Planta",
+            "Fuego"
+          ],
+          "typeKeys": [
+            "grass",
+            "fire"
+          ],
+          "baseStats": {
+            "hp": 80,
+            "atk": 120,
+            "def": 84,
+            "spa": 60,
+            "spd": 96,
+            "spe": 110
+          },
+          "item": {
+            "en": null,
+            "es": null,
+            "sprite": null,
+            "effect": ""
+          },
+          "ability": {
+            "en": null,
+            "es": null,
+            "effect": ""
+          },
+          "nature": null,
+          "natureEs": null,
+          "evs": null,
+          "ivs": null,
+          "level": null,
+          "teraType": null,
+          "moves": [],
+          "confidence": "report",
+          "note": null
+        },
+        {
+          "key": "raging-bolt",
+          "species": "raging-bolt",
+          "displayName": "Electrofuria",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png",
+          "types": [
+            "Eléctrico",
+            "Dragón"
+          ],
+          "typeKeys": [
+            "electric",
+            "dragon"
+          ],
+          "baseStats": {
+            "hp": 125,
+            "atk": 73,
+            "def": 91,
+            "spa": 137,
+            "spd": 89,
+            "spe": 75
+          },
+          "item": {
+            "en": null,
+            "es": null,
+            "sprite": null,
+            "effect": ""
+          },
+          "ability": {
+            "en": null,
+            "es": null,
+            "effect": ""
+          },
+          "nature": null,
+          "natureEs": null,
+          "evs": null,
+          "ivs": null,
+          "level": null,
+          "teraType": null,
+          "moves": [],
+          "confidence": "report",
+          "note": null
+        },
+        {
+          "key": "terapagos",
+          "species": "terapagos",
+          "displayName": "Terapagos",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png",
+          "types": [
+            "Normal"
+          ],
+          "typeKeys": [
+            "normal"
+          ],
+          "baseStats": {
+            "hp": 90,
+            "atk": 65,
+            "def": 85,
+            "spa": 65,
+            "spd": 85,
+            "spe": 60
+          },
+          "item": {
+            "en": null,
+            "es": null,
+            "sprite": null,
+            "effect": ""
+          },
+          "ability": {
+            "en": null,
+            "es": null,
+            "effect": ""
+          },
+          "nature": null,
+          "natureEs": null,
+          "evs": null,
+          "ivs": null,
+          "level": null,
+          "teraType": null,
+          "moves": [],
+          "confidence": "report",
+          "note": null
+        }
+      ]
+    },
+    {
+      "key": "naic2026",
+      "pokemon": [
+        {
+          "key": "garchomp",
+          "species": "garchomp",
+          "displayName": "Garchomp",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png",
+          "types": [
+            "Dragón",
+            "Tierra"
+          ],
+          "typeKeys": [
+            "dragon",
+            "ground"
+          ],
+          "baseStats": {
+            "hp": 108,
+            "atk": 130,
+            "def": 95,
+            "spa": 80,
+            "spd": 85,
+            "spe": 102
+          },
+          "item": {
+            "en": null,
+            "es": null,
+            "sprite": null,
+            "effect": ""
+          },
+          "ability": {
+            "en": null,
+            "es": null,
+            "effect": ""
+          },
+          "nature": null,
+          "natureEs": null,
+          "evs": null,
+          "ivs": null,
+          "level": null,
+          "teraType": null,
+          "moves": [],
+          "confidence": "report",
+          "note": null
+        },
+        {
+          "key": "sylveon",
+          "species": "sylveon",
+          "displayName": "Sylveon",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
+          "types": [
+            "Hada"
+          ],
+          "typeKeys": [
+            "fairy"
+          ],
+          "baseStats": {
+            "hp": 95,
+            "atk": 65,
+            "def": 65,
+            "spa": 110,
+            "spd": 130,
+            "spe": 60
+          },
+          "item": {
+            "en": null,
+            "es": null,
+            "sprite": null,
+            "effect": ""
+          },
+          "ability": {
+            "en": null,
+            "es": null,
+            "effect": ""
+          },
+          "nature": null,
+          "natureEs": null,
+          "evs": null,
+          "ivs": null,
+          "level": null,
+          "teraType": null,
+          "moves": [],
+          "confidence": "report",
+          "note": null
+        },
+        {
+          "key": "farigiraf",
+          "species": "farigiraf",
+          "displayName": "Farigiraf",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png",
+          "types": [
+            "Normal",
+            "Psíquico"
+          ],
+          "typeKeys": [
+            "normal",
+            "psychic"
+          ],
+          "baseStats": {
+            "hp": 120,
+            "atk": 90,
+            "def": 70,
+            "spa": 110,
+            "spd": 70,
+            "spe": 60
+          },
+          "item": {
+            "en": null,
+            "es": null,
+            "sprite": null,
+            "effect": ""
+          },
+          "ability": {
+            "en": null,
+            "es": null,
+            "effect": ""
+          },
+          "nature": null,
+          "natureEs": null,
+          "evs": null,
+          "ivs": null,
+          "level": null,
+          "teraType": null,
+          "moves": [],
+          "confidence": "report",
+          "note": null
+        },
+        {
+          "key": "aerodactyl-mega",
+          "species": "aerodactyl",
+          "displayName": "Mega Aerodactyl",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10042.png",
+          "types": [
+            "Roca",
+            "Volador"
+          ],
+          "typeKeys": [
+            "rock",
+            "flying"
+          ],
+          "baseStats": {
+            "hp": 80,
+            "atk": 135,
+            "def": 85,
+            "spa": 70,
+            "spd": 95,
+            "spe": 150
+          },
+          "item": {
+            "en": null,
+            "es": null,
+            "sprite": null,
+            "effect": ""
+          },
+          "ability": {
+            "en": null,
+            "es": null,
+            "effect": ""
+          },
+          "nature": null,
+          "natureEs": null,
+          "evs": null,
+          "ivs": null,
+          "level": null,
+          "teraType": null,
+          "moves": [],
+          "confidence": "report",
+          "note": null
+        },
+        {
+          "key": "kingambit",
+          "species": "kingambit",
+          "displayName": "Kingambit",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png",
+          "types": [
+            "Siniestro",
+            "Acero"
+          ],
+          "typeKeys": [
+            "dark",
+            "steel"
+          ],
+          "baseStats": {
+            "hp": 100,
+            "atk": 135,
+            "def": 120,
+            "spa": 60,
+            "spd": 85,
+            "spe": 50
+          },
+          "item": {
+            "en": null,
+            "es": null,
+            "sprite": null,
+            "effect": ""
+          },
+          "ability": {
+            "en": null,
+            "es": null,
+            "effect": ""
+          },
+          "nature": null,
+          "natureEs": null,
+          "evs": null,
+          "ivs": null,
+          "level": null,
+          "teraType": null,
+          "moves": [],
+          "confidence": "report",
+          "note": null
+        },
+        {
+          "key": "charizard-mega-y",
+          "species": "charizard",
+          "displayName": "Mega Charizard Y",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10035.png",
+          "types": [
+            "Fuego",
+            "Volador"
+          ],
+          "typeKeys": [
+            "fire",
+            "flying"
+          ],
+          "baseStats": {
+            "hp": 78,
+            "atk": 104,
+            "def": 78,
+            "spa": 159,
+            "spd": 115,
+            "spe": 100
+          },
+          "item": {
+            "en": null,
+            "es": null,
+            "sprite": null,
+            "effect": ""
+          },
+          "ability": {
+            "en": null,
+            "es": null,
+            "effect": ""
+          },
+          "nature": null,
+          "natureEs": null,
+          "evs": null,
+          "ivs": null,
+          "level": null,
+          "teraType": null,
+          "moves": [],
+          "confidence": "report",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

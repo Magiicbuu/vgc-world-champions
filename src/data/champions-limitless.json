@@ -1,0 +1,1351 @@
+[
+  {
+    "year": 2012,
+    "placement": "1st Ray Rizzo",
+    "team": [
+      {
+        "speciesId": "cresselia",
+        "name": "Cresselia",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/cresselia.png",
+        "item": "Sitrus Berry",
+        "itemSprite": null,
+        "ability": "Levitate",
+        "nature": "Sassy",
+        "teraType": null,
+        "evs": [
+          220,
+          0,
+          108,
+          180,
+          0,
+          0
+        ],
+        "ivs": null,
+        "moves": [
+          "Ice Beam",
+          "Psyshock",
+          "Swagger",
+          "Trick Room"
+        ]
+      },
+      {
+        "speciesId": "metagross",
+        "name": "Metagross",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/metagross.png",
+        "item": "Lum Berry",
+        "itemSprite": null,
+        "ability": "Clear Body",
+        "nature": "Adamant",
+        "teraType": null,
+        "evs": [
+          252,
+          116,
+          4,
+          0,
+          136,
+          0
+        ],
+        "ivs": null,
+        "moves": [
+          "Meteor Mash",
+          "Zen Headbutt",
+          "Earthquake",
+          "Protect"
+        ]
+      },
+      {
+        "speciesId": "hydreigon",
+        "name": "Hydreigon",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/hydreigon.png",
+        "item": "Dragon Gem",
+        "itemSprite": null,
+        "ability": "Levitate",
+        "nature": "Timid",
+        "teraType": null,
+        "evs": [
+          60,
+          0,
+          0,
+          252,
+          0,
+          196
+        ],
+        "ivs": null,
+        "moves": [
+          "Draco Meteor",
+          "Dark Pulse",
+          "Flamethrower",
+          "Protect"
+        ]
+      },
+      {
+        "speciesId": "garchomp",
+        "name": "Garchomp",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/garchomp.png",
+        "item": "Haban Berry",
+        "itemSprite": null,
+        "ability": "Sand Veil",
+        "nature": "Jolly",
+        "teraType": null,
+        "evs": [
+          36,
+          116,
+          4,
+          0,
+          196,
+          156
+        ],
+        "ivs": null,
+        "moves": [
+          "Dragon Claw",
+          "Earthquake",
+          "Substitute",
+          "Protect"
+        ]
+      },
+      {
+        "speciesId": "tyranitar",
+        "name": "Tyranitar",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/tyranitar.png",
+        "item": "Chople Berry",
+        "itemSprite": null,
+        "ability": "Sand Stream",
+        "nature": "Adamant",
+        "teraType": null,
+        "evs": [
+          252,
+          124,
+          36,
+          0,
+          96,
+          0
+        ],
+        "ivs": null,
+        "moves": [
+          "Rock Slide",
+          "Low Kick",
+          "Fire Punch",
+          "Protect"
+        ]
+      },
+      {
+        "speciesId": "rotom-wash",
+        "name": "Wash Rotom",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/rotom-wash.png",
+        "item": "Choice Specs",
+        "itemSprite": null,
+        "ability": "Levitate",
+        "nature": "Modest",
+        "teraType": null,
+        "evs": [
+          228,
+          0,
+          4,
+          12,
+          12,
+          252
+        ],
+        "ivs": null,
+        "moves": [
+          "Thunder",
+          "Thunderbolt",
+          "Hidden Power [Grass]",
+          "Hydro Pump"
+        ]
+      }
+    ],
+    "source": "https://limitlessvgc.com/tournaments/51/teams"
+  },
+  {
+    "year": 2014,
+    "placement": "1st Sejun Park",
+    "team": [
+      {
+        "speciesId": "pachirisu",
+        "name": "Pachirisu",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/pachirisu.png",
+        "item": "Sitrus Berry",
+        "itemSprite": null,
+        "ability": "Volt Absorb",
+        "nature": "Impish",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Nuzzle",
+          "Follow Me",
+          "Super Fang",
+          "Protect"
+        ]
+      },
+      {
+        "speciesId": "gothitelle",
+        "name": "Gothitelle",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/gothitelle.png",
+        "item": "Leftovers",
+        "itemSprite": null,
+        "ability": "Shadow Tag",
+        "nature": "Calm",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Psyshock",
+          "Thunder Wave",
+          "Tickle",
+          "Protect"
+        ]
+      },
+      {
+        "speciesId": "gardevoir",
+        "name": "Gardevoir",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/gardevoir.png",
+        "item": "Choice Scarf",
+        "itemSprite": null,
+        "ability": "Telepathy",
+        "nature": "Timid",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Dazzling Gleam",
+          "Psychic",
+          "Moonblast",
+          "Swagger"
+        ]
+      },
+      {
+        "speciesId": "gyarados-mega",
+        "name": "Mega Gyarados",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/gyarados-mega.png",
+        "item": "Gyaradosite",
+        "itemSprite": null,
+        "ability": "Intimidate",
+        "nature": "Adamant",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Dragon Dance",
+          "Waterfall",
+          "Earthquake",
+          "Protect"
+        ]
+      },
+      {
+        "speciesId": "talonflame",
+        "name": "Talonflame",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/talonflame.png",
+        "item": "Life Orb",
+        "itemSprite": null,
+        "ability": "Gale Wings",
+        "nature": "Naive",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Brave Bird",
+          "Overheat",
+          "Taunt",
+          "Quick Guard"
+        ]
+      },
+      {
+        "speciesId": "garchomp",
+        "name": "Garchomp",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/garchomp.png",
+        "item": "Focus Sash",
+        "itemSprite": null,
+        "ability": "Rough Skin",
+        "nature": "Jolly",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Earthquake",
+          "Dragon Claw",
+          "Rock Slide",
+          "Protect"
+        ]
+      }
+    ],
+    "source": "https://limitlessvgc.com/tournaments/53/teams"
+  },
+  {
+    "year": 2015,
+    "placement": "1st Shoma Honami",
+    "team": [
+      {
+        "speciesId": "kangaskhan-mega",
+        "name": "Mega Kangaskhan",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/kangaskhan-mega.png",
+        "item": "Kangaskhanite",
+        "itemSprite": null,
+        "ability": "Scrappy",
+        "nature": "Adamant",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Return",
+          "Low Kick",
+          "Sucker Punch",
+          "Fake Out"
+        ]
+      },
+      {
+        "speciesId": "heatran",
+        "name": "Heatran",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/heatran.png",
+        "item": "Shuca Berry",
+        "itemSprite": null,
+        "ability": "Flash Fire",
+        "nature": "Modest",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Protect",
+          "Substitute",
+          "Heat Wave",
+          "Earth Power"
+        ]
+      },
+      {
+        "speciesId": "thundurus",
+        "name": "Thundurus",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/thundurus.png",
+        "item": "Safety Goggles",
+        "itemSprite": null,
+        "ability": "Prankster",
+        "nature": "Timid",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Protect",
+          "Thunderbolt",
+          "Thunder Wave",
+          "Swagger"
+        ]
+      },
+      {
+        "speciesId": "landorus-therian",
+        "name": "Landorus Therian",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/landorus-therian.png",
+        "item": "Assault Vest",
+        "itemSprite": null,
+        "ability": "Intimidate",
+        "nature": "Jolly",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Rock Slide",
+          "Earthquake",
+          "Knock Off",
+          "Superpower"
+        ]
+      },
+      {
+        "speciesId": "cresselia",
+        "name": "Cresselia",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/cresselia.png",
+        "item": "Sitrus Berry",
+        "itemSprite": null,
+        "ability": "Levitate",
+        "nature": "Quiet",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Protect",
+          "Psychic",
+          "Ice Beam",
+          "Trick Room"
+        ]
+      },
+      {
+        "speciesId": "amoonguss",
+        "name": "Amoonguss",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/amoonguss.png",
+        "item": "Rocky Helmet",
+        "itemSprite": null,
+        "ability": "Regenerator",
+        "nature": "Relaxed",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Rage Powder",
+          "Spore",
+          "Energy Ball",
+          "Sunny Day"
+        ]
+      }
+    ],
+    "source": "https://limitlessvgc.com/tournaments/47/teams"
+  },
+  {
+    "year": 2016,
+    "placement": "1st Wolfe Glick",
+    "team": [
+      {
+        "speciesId": "rayquaza-mega",
+        "name": "Mega Rayquaza",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/rayquaza-mega.png",
+        "item": "Focus Sash",
+        "itemSprite": null,
+        "ability": "Air Lock",
+        "nature": "Jolly",
+        "teraType": null,
+        "evs": [
+          4,
+          252,
+          0,
+          0,
+          0,
+          252
+        ],
+        "ivs": null,
+        "moves": [
+          "Dragon Ascend",
+          "Protect",
+          "Swords Dance",
+          "Extreme Speed"
+        ]
+      },
+      {
+        "speciesId": "kyogre-primal",
+        "name": "Primal Kyogre",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/kyogre-primal.png",
+        "item": "Blue Orb",
+        "itemSprite": null,
+        "ability": "Drizzle",
+        "nature": "Modest",
+        "teraType": null,
+        "evs": [
+          204,
+          0,
+          204,
+          44,
+          4,
+          52
+        ],
+        "ivs": null,
+        "moves": [
+          "Origin Pulse",
+          "Ice Beam",
+          "Water Spout",
+          "Protect"
+        ]
+      },
+      {
+        "speciesId": "gengar-mega",
+        "name": "Mega Gengar",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/gengar-mega.png",
+        "item": "Gengarite",
+        "itemSprite": null,
+        "ability": "Levitate",
+        "nature": "Timid",
+        "teraType": null,
+        "evs": [
+          92,
+          0,
+          20,
+          172,
+          4,
+          220
+        ],
+        "ivs": null,
+        "moves": [
+          "Protect",
+          "Taunt",
+          "Sludge Bomb",
+          "Will-O-Wisp"
+        ]
+      },
+      {
+        "speciesId": "hitmontop",
+        "name": "Hitmontop",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/hitmontop.png",
+        "item": "Eject Button",
+        "itemSprite": null,
+        "ability": "Intimidate",
+        "nature": "Adamant",
+        "teraType": null,
+        "evs": [
+          252,
+          132,
+          76,
+          0,
+          44,
+          4
+        ],
+        "ivs": null,
+        "moves": [
+          "Wide Guard",
+          "Fake Out",
+          "Close Combat",
+          "Feint"
+        ]
+      },
+      {
+        "speciesId": "raichu",
+        "name": "Raichu",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/raichu.png",
+        "item": "Assault Vest",
+        "itemSprite": null,
+        "ability": "Lightning Rod",
+        "nature": "Timid",
+        "teraType": null,
+        "evs": [
+          36,
+          0,
+          204,
+          20,
+          68,
+          180
+        ],
+        "ivs": null,
+        "moves": [
+          "Fake Out",
+          "Volt Switch",
+          "Endeavor",
+          "Nuzzle"
+        ]
+      },
+      {
+        "speciesId": "bronzong",
+        "name": "Bronzong",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/bronzong.png",
+        "item": "Lum Berry",
+        "itemSprite": null,
+        "ability": "Levitate",
+        "nature": "Sassy",
+        "teraType": null,
+        "evs": [
+          252,
+          0,
+          68,
+          0,
+          188,
+          0
+        ],
+        "ivs": null,
+        "moves": [
+          "Safeguard",
+          "Gyro Ball",
+          "Skill Swap",
+          "Trick Room"
+        ]
+      }
+    ],
+    "source": "https://limitlessvgc.com/tournaments/46/teams"
+  },
+  {
+    "year": 2017,
+    "placement": "1st Ryota Otsubo",
+    "team": [
+      {
+        "speciesId": "krookodile",
+        "name": "Krookodile",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/krookodile.png",
+        "item": "Groundium Z",
+        "itemSprite": null,
+        "ability": "Intimidate",
+        "nature": "Adamant",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Earthquake",
+          "Crunch",
+          "Taunt",
+          "Protect"
+        ]
+      },
+      {
+        "speciesId": "whimsicott",
+        "name": "Whimsicott",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/whimsicott.png",
+        "item": "Normalium Z",
+        "itemSprite": null,
+        "ability": "Prankster",
+        "nature": "Modest",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Nature Power",
+          "Tailwind",
+          "Charm",
+          "Protect"
+        ]
+      },
+      {
+        "speciesId": "tapu-fini",
+        "name": "Tapu Fini",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/tapu-fini.png",
+        "item": "Choice Specs",
+        "itemSprite": null,
+        "ability": "Misty Terrain",
+        "nature": "Modest",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Moonblast",
+          "Muddy Water",
+          "Dazzling Gleam",
+          "Ice Beam"
+        ]
+      },
+      {
+        "speciesId": "marowak-alola",
+        "name": "Alolan Marowak",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/marowak-alola.png",
+        "item": "Thick Club",
+        "itemSprite": null,
+        "ability": "Lightning Rod",
+        "nature": "Careful",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Flare Blitz",
+          "Shadow Bone",
+          "Brick Break",
+          "Protect"
+        ]
+      },
+      {
+        "speciesId": "celesteela",
+        "name": "Celesteela",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/celesteela.png",
+        "item": "Leftovers",
+        "itemSprite": null,
+        "ability": "Beast Boost",
+        "nature": "Careful",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Heavy Slam",
+          "Flamethrower",
+          "Leech Seed",
+          "Protect"
+        ]
+      },
+      {
+        "speciesId": "tapu-koko",
+        "name": "Tapu Koko",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/tapu-koko.png",
+        "item": "Life Orb",
+        "itemSprite": null,
+        "ability": "Electric Terrain",
+        "nature": "Modest",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Thunderbolt",
+          "Dazzling Gleam",
+          "Discharge",
+          "Protect"
+        ]
+      }
+    ],
+    "source": "https://limitlessvgc.com/tournaments/31/teams"
+  },
+  {
+    "year": 2018,
+    "placement": "1st Paul Ruiz",
+    "team": [
+      {
+        "speciesId": "tapu-koko",
+        "name": "Tapu Koko",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/tapu-koko.png",
+        "item": "Choice Specs",
+        "itemSprite": null,
+        "ability": "Electric Surge",
+        "nature": "Timid",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Thunderbolt",
+          "Dazzling Gleam",
+          "Volt Switch",
+          "Discharge"
+        ]
+      },
+      {
+        "speciesId": "salamence-mega",
+        "name": "Mega Salamence",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/salamence-mega.png",
+        "item": "Salamencite",
+        "itemSprite": null,
+        "ability": "Intimidate",
+        "nature": "Jolly",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Double-Edge",
+          "Dragon Dance",
+          "Roost",
+          "Protect"
+        ]
+      },
+      {
+        "speciesId": "snorlax",
+        "name": "Snorlax",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/snorlax.png",
+        "item": "Aguav Berry",
+        "itemSprite": null,
+        "ability": "Gluttony",
+        "nature": "Adamant",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Frustration",
+          "Belly Drum",
+          "Recycle",
+          "Protect"
+        ]
+      },
+      {
+        "speciesId": "incineroar",
+        "name": "Incineroar",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png",
+        "item": "Figy Berry",
+        "itemSprite": null,
+        "ability": "Intimidate",
+        "nature": "Careful",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Flare Blitz",
+          "Snarl",
+          "Snatch",
+          "Fake Out"
+        ]
+      },
+      {
+        "speciesId": "gastrodon",
+        "name": "Gastrodon",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/gastrodon.png",
+        "item": "Groundium Z",
+        "itemSprite": null,
+        "ability": "Storm Drain",
+        "nature": "Modest",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Earth Power",
+          "Ice Beam",
+          "Recover",
+          "Protect"
+        ]
+      },
+      {
+        "speciesId": "kartana",
+        "name": "Kartana",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/kartana.png",
+        "item": "Grassium Z",
+        "itemSprite": null,
+        "ability": "Beast Boost",
+        "nature": "Adamant",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Leaf Blade",
+          "Sacred Sword",
+          "Tailwind",
+          "Protect"
+        ]
+      }
+    ],
+    "source": "https://limitlessvgc.com/tournaments/194/teams"
+  },
+  {
+    "year": 2019,
+    "placement": "1st Naoto Mizobuchi",
+    "team": [
+      {
+        "speciesId": "lunala",
+        "name": "Lunala",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/lunala.png",
+        "item": "Colbur Berry",
+        "itemSprite": null,
+        "ability": "Shadow Shield",
+        "nature": "Modest",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Moongeist Beam",
+          "Wide Guard",
+          "Trick Room",
+          "Protect"
+        ]
+      },
+      {
+        "speciesId": "groudon-primal",
+        "name": "Primal Groudon",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/groudon-primal.png",
+        "item": "Red Orb",
+        "itemSprite": null,
+        "ability": "Drought",
+        "nature": "Adamant",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Precipice Blades",
+          "Fire Punch",
+          "Dragon Claw",
+          "Protect"
+        ]
+      },
+      {
+        "speciesId": "incineroar",
+        "name": "Incineroar",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/incineroar.png",
+        "item": "Assault Vest",
+        "itemSprite": null,
+        "ability": "Intimidate",
+        "nature": "Careful",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Fake Out",
+          "Flare Blitz",
+          "Darkest Lariat",
+          "U-turn"
+        ]
+      },
+      {
+        "speciesId": "salamence-mega",
+        "name": "Mega Salamence",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/salamence-mega.png",
+        "item": "Salamencite",
+        "itemSprite": null,
+        "ability": "Intimidate",
+        "nature": "Hasty",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Double-Edge",
+          "Hyper Voice",
+          "Tailwind",
+          "Protect"
+        ]
+      },
+      {
+        "speciesId": "tapu-fini",
+        "name": "Tapu Fini",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/tapu-fini.png",
+        "item": "Fairium Z",
+        "itemSprite": null,
+        "ability": "Misty Surge",
+        "nature": "Modest",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Moonblast",
+          "Scald",
+          "Nature&#039;s Madness",
+          "Protect"
+        ]
+      },
+      {
+        "speciesId": "stakataka",
+        "name": "Stakataka",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/stakataka.png",
+        "item": "Rockium Z",
+        "itemSprite": null,
+        "ability": "Beast Boost",
+        "nature": "Lonely",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Gyro Ball",
+          "Stone Edge",
+          "Trick Room",
+          "Protect"
+        ]
+      }
+    ],
+    "source": "https://limitlessvgc.com/tournaments/201/teams"
+  },
+  {
+    "year": 2023,
+    "placement": "1st Shohei Kimura",
+    "team": [
+      {
+        "speciesId": "landorus-therian",
+        "name": "Landorus Therian",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/landorus-therian.png",
+        "item": "Safety Goggles",
+        "itemSprite": "https://r2.limitlesstcg.net/sprites/items/sv/safety-goggles.webp",
+        "ability": "Intimidate",
+        "nature": null,
+        "teraType": "Flying",
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Stomping Tantrum",
+          "Tera Blast",
+          "U-turn",
+          "Protect"
+        ]
+      },
+      {
+        "speciesId": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/urshifu-rapid-strike.png",
+        "item": "Mystic Water",
+        "itemSprite": "https://r2.limitlesstcg.net/sprites/items/sv/mystic-water.webp",
+        "ability": "Unseen Fist",
+        "nature": null,
+        "teraType": "Water",
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Surging Strikes",
+          "Aqua Jet",
+          "Protect",
+          "Taunt"
+        ]
+      },
+      {
+        "speciesId": "flutter-mane",
+        "name": "Flutter Mane",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/flutter-mane.png",
+        "item": "Choice Specs",
+        "itemSprite": "https://r2.limitlesstcg.net/sprites/items/sv/choice-specs.webp",
+        "ability": "Protosynthesis",
+        "nature": null,
+        "teraType": "Grass",
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Shadow Ball",
+          "Dazzling Gleam",
+          "Moonblast",
+          "Energy Ball"
+        ]
+      },
+      {
+        "speciesId": "chien-pao",
+        "name": "Chien-Pao",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/chien-pao.png",
+        "item": "Focus Sash",
+        "itemSprite": "https://r2.limitlesstcg.net/sprites/items/sv/focus-sash.webp",
+        "ability": "Sword of Ruin",
+        "nature": null,
+        "teraType": "Ghost",
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Icicle Crash",
+          "Sacred Sword",
+          "Sucker Punch",
+          "Protect"
+        ]
+      },
+      {
+        "speciesId": "amoonguss",
+        "name": "Amoonguss",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/amoonguss.png",
+        "item": "Sitrus Berry",
+        "itemSprite": "https://r2.limitlesstcg.net/sprites/items/sv/sitrus-berry.webp",
+        "ability": "Regenerator",
+        "nature": null,
+        "teraType": "Water",
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Pollen Puff",
+          "Spore",
+          "Rage Powder",
+          "Protect"
+        ]
+      },
+      {
+        "speciesId": "iron-hands",
+        "name": "Iron Hands",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/iron-hands.png",
+        "item": "Assault Vest",
+        "itemSprite": "https://r2.limitlesstcg.net/sprites/items/sv/assault-vest.webp",
+        "ability": "Quark Drive",
+        "nature": null,
+        "teraType": "Water",
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Wild Charge",
+          "Volt Switch",
+          "Drain Punch",
+          "Fake Out"
+        ]
+      }
+    ],
+    "source": "https://limitlessvgc.com/tournaments/319/teams"
+  },
+  {
+    "year": 2024,
+    "placement": "1st Luca Ceribelli",
+    "team": [
+      {
+        "speciesId": "miraidon",
+        "name": "Miraidon",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/miraidon.png",
+        "item": "Choice Specs",
+        "itemSprite": "https://r2.limitlesstcg.net/sprites/items/sv/choice-specs.webp",
+        "ability": "Hadron Engine",
+        "nature": null,
+        "teraType": "Fairy",
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Electro Drift",
+          "Draco Meteor",
+          "Dazzling Gleam",
+          "Volt Switch"
+        ]
+      },
+      {
+        "speciesId": "ogerpon-hearthflame",
+        "name": "Hearthflame Mask Ogerpon",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/ogerpon-hearthflame.png",
+        "item": "Hearthflame Mask",
+        "itemSprite": "https://r2.limitlesstcg.net/sprites/items/sv/hearthflame-mask.webp",
+        "ability": "Mold Breaker",
+        "nature": null,
+        "teraType": "Fire",
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Spiky Shield",
+          "Ivy Cudgel",
+          "Wood Hammer",
+          "Follow Me"
+        ]
+      },
+      {
+        "speciesId": "urshifu-rapid-strike",
+        "name": "Rapid Strike Urshifu",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/urshifu-rapid-strike.png",
+        "item": "Focus Sash",
+        "itemSprite": "https://r2.limitlesstcg.net/sprites/items/sv/focus-sash.webp",
+        "ability": "Unseen Fist",
+        "nature": null,
+        "teraType": "Water",
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Detect",
+          "Surging Strikes",
+          "Close Combat",
+          "Aqua Jet"
+        ]
+      },
+      {
+        "speciesId": "iron-hands",
+        "name": "Iron Hands",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/iron-hands.png",
+        "item": "Assault Vest",
+        "itemSprite": "https://r2.limitlesstcg.net/sprites/items/sv/assault-vest.webp",
+        "ability": "Quark Drive",
+        "nature": null,
+        "teraType": "Bug",
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Drain Punch",
+          "Wild Charge",
+          "Fake Out",
+          "Low Kick"
+        ]
+      },
+      {
+        "speciesId": "whimsicott",
+        "name": "Whimsicott",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/whimsicott.png",
+        "item": "Covert Cloak",
+        "itemSprite": "https://r2.limitlesstcg.net/sprites/items/sv/covert-cloak.webp",
+        "ability": "Prankster",
+        "nature": null,
+        "teraType": "Dark",
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Moonblast",
+          "Encore",
+          "Light Screen",
+          "Tailwind"
+        ]
+      },
+      {
+        "speciesId": "farigiraf",
+        "name": "Farigiraf",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/farigiraf.png",
+        "item": "Electric Seed",
+        "itemSprite": "https://r2.limitlesstcg.net/sprites/items/sv/electric-seed.webp",
+        "ability": "Armor Tail",
+        "nature": null,
+        "teraType": "Water",
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Psychic Noise",
+          "Foul Play",
+          "Helping Hand",
+          "Trick Room"
+        ]
+      }
+    ],
+    "source": "https://limitlessvgc.com/tournaments/358/teams"
+  },
+  {
+    "year": 2025,
+    "placement": "1st Giovanni Cischke",
+    "team": [
+      {
+        "speciesId": "brute-bonnet",
+        "name": "Brute Bonnet",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/brute-bonnet.png",
+        "item": "Sitrus Berry",
+        "itemSprite": "https://r2.limitlesstcg.net/sprites/items/sv/sitrus-berry.webp",
+        "ability": "Protosynthesis",
+        "nature": null,
+        "teraType": "Water",
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Seed Bomb",
+          "Sucker Punch",
+          "Spore",
+          "Rage Powder"
+        ]
+      },
+      {
+        "speciesId": "lunala",
+        "name": "Lunala",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/lunala.png",
+        "item": "Power Herb",
+        "itemSprite": "https://r2.limitlesstcg.net/sprites/items/sv/power-herb.webp",
+        "ability": "Shadow Shield",
+        "nature": null,
+        "teraType": "Water",
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Moongeist Beam",
+          "Meteor Beam",
+          "Wide Guard",
+          "Trick Room"
+        ]
+      },
+      {
+        "speciesId": "ursaluna",
+        "name": "Ursaluna",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/ursaluna.png",
+        "item": "Flame Orb",
+        "itemSprite": "https://r2.limitlesstcg.net/sprites/items/sv/flame-orb.webp",
+        "ability": "Guts",
+        "nature": null,
+        "teraType": "Ghost",
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Headlong Rush",
+          "Facade",
+          "Earthquake",
+          "Protect"
+        ]
+      },
+      {
+        "speciesId": "chi-yu",
+        "name": "Chi-Yu",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/chi-yu.png",
+        "item": "Choice Scarf",
+        "itemSprite": "https://r2.limitlesstcg.net/sprites/items/sv/choice-scarf.webp",
+        "ability": "Beads of Ruin",
+        "nature": null,
+        "teraType": "Ghost",
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Dark Pulse",
+          "Heat Wave",
+          "Overheat",
+          "Snarl"
+        ]
+      },
+      {
+        "speciesId": "koraidon",
+        "name": "Koraidon",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/koraidon.png",
+        "item": "Life Orb",
+        "itemSprite": "https://r2.limitlesstcg.net/sprites/items/sv/life-orb.webp",
+        "ability": "Orichalcum Pulse",
+        "nature": null,
+        "teraType": "Fire",
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Close Combat",
+          "Flare Blitz",
+          "Flame Charge",
+          "Protect"
+        ]
+      },
+      {
+        "speciesId": "flutter-mane",
+        "name": "Flutter Mane",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/flutter-mane.png",
+        "item": "Focus Sash",
+        "itemSprite": "https://r2.limitlesstcg.net/sprites/items/sv/focus-sash.webp",
+        "ability": "Protosynthesis",
+        "nature": null,
+        "teraType": "Stellar",
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Shadow Ball",
+          "Moonblast",
+          "Icy Wind",
+          "Protect"
+        ]
+      }
+    ],
+    "source": "https://limitlessvgc.com/tournaments/399/teams"
+  },
+  {
+    "year": 2026,
+    "placement": "1st Takuma Yamazaki",
+    "team": [
+      {
+        "speciesId": "floette-eternal",
+        "name": "Eternal Flower Floette",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/floette-eternal.png",
+        "item": "Floettite",
+        "itemSprite": "https://r2.limitlesstcg.net/sprites/items/sv/floettite.webp",
+        "ability": "Flower Veil",
+        "nature": "Timid",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Moonblast",
+          "Dazzling Gleam",
+          "Light of Ruin",
+          "Protect"
+        ]
+      },
+      {
+        "speciesId": "basculegion",
+        "name": "Basculegion",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/basculegion.png",
+        "item": "Life Orb",
+        "itemSprite": "https://r2.limitlesstcg.net/sprites/items/sv/life-orb.webp",
+        "ability": "Adaptability",
+        "nature": "Adamant",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Wave Crash",
+          "Last Respects",
+          "Aqua Jet",
+          "Protect"
+        ]
+      },
+      {
+        "speciesId": "kingambit",
+        "name": "Kingambit",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/kingambit.png",
+        "item": "Chople Berry",
+        "itemSprite": "https://r2.limitlesstcg.net/sprites/items/sv/chople-berry.webp",
+        "ability": "Defiant",
+        "nature": "Adamant",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Sucker Punch",
+          "Kowtow Cleave",
+          "Low Kick",
+          "Iron Head"
+        ]
+      },
+      {
+        "speciesId": "dragonite",
+        "name": "Dragonite",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/dragonite.png",
+        "item": "Dragoninite",
+        "itemSprite": "https://r2.limitlesstcg.net/sprites/items/sv/dragoninite.webp",
+        "ability": "Multiscale",
+        "nature": "Modest",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Dragon Pulse",
+          "Heat Wave",
+          "Extreme Speed",
+          "Protect"
+        ]
+      },
+      {
+        "speciesId": "garchomp",
+        "name": "Garchomp",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/garchomp.png",
+        "item": "Choice Scarf",
+        "itemSprite": "https://r2.limitlesstcg.net/sprites/items/sv/choice-scarf.webp",
+        "ability": "Rough Skin",
+        "nature": "Adamant",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Dragon Claw",
+          "Stomping Tantrum",
+          "Earthquake",
+          "Rock Slide"
+        ]
+      },
+      {
+        "speciesId": "sneasler",
+        "name": "Sneasler",
+        "sprite": "https://r2.limitlesstcg.net/sprites/home-sv/sneasler.png",
+        "item": "Focus Sash",
+        "itemSprite": "https://r2.limitlesstcg.net/sprites/items/sv/focus-sash.webp",
+        "ability": "Poison Touch",
+        "nature": "Jolly",
+        "teraType": null,
+        "evs": null,
+        "ivs": null,
+        "moves": [
+          "Close Combat",
+          "Dire Claw",
+          "Fake Out",
+          "Feint"
+        ]
+      }
+    ],
+    "source": "https://limitlessvgc.com/tournaments/437/teams"
+  }
+]
