@@ -57,6 +57,7 @@ scripts/        Scraper de Limitless y pipeline de datos
 
 El proyecto incluye configuración para:
 
+- **GitHub Pages** (`.github/workflows/deploy-pages.yml`): despliegue automático desde `main` en <https://magiicbuu.github.io/vgc-world-champions/>.
 - **Vercel** (`vercel.json`): rewrites de SPA a `index.html`.
 - **Netlify** (`netlify.toml`): build y redirect de SPA.
 
